@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cinéma - Rechercher des films</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <header>
+        <h1>CINÉMA DU VILLAGE</h1>
+        <nav>
+            <a href="index.html">Accueil</a>
+            <a href="search.html">Rechercher des films</a>
+        </nav>
+    </header>
+
+    <main>
+        <section>
+            <h2>Rechercher des films</h2>
+
+            <div class="search-box">
+                <input
+                    type="search"
+                    id="search-input"
+                    placeholder="Tapez le titre d'un film (en anglais)..."
+                    autocomplete="off"
+                >
+            </div>
+
+            <div id="search-results" class="movie-grid">
+                <p>Tapez quelque chose ci-dessus pour commencer la recherche...</p>
+            </div>
+        </section>
+
+        <section class="load-more-section">
+            <button id="load-more-search-btn" style="display: none;">Charger plus de résultats</button>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2026 - Projet Cinéma - Yara Hamiche Belaid</p>
+    </footer>
+
+    <script src="js/api.js"></script>
+    <script src="js/search.js"></script>
+</body>
+</html>
