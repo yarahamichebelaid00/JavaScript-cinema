@@ -1,0 +1,14 @@
+*   [33mc1847bf[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mdev[m[33m)[m merge: feature/movie into dev
+[31m|[m[32m\[m  
+[31m|[m * [33m388b418[m[33m ([m[1;32mfeature/movie[m[33m)[m feat(movie): add movie details page with ratings and DVD date
+[31m|[m[31m/[m  
+*   [33m2ce079b[m merge: feature/search into dev
+[33m|[m[34m\[m  
+[33m|[m * [33m12495b7[m[33m ([m[1;32mfeature/search[m[33m)[m feat(search): add live search with load more button
+[33m|[m[33m/[m  
+*   [33m2b7590c[m merge: feature/index into dev
+[35m|[m[36m\[m  
+[35m|[m * [33md1f88e8[m[33m ([m[1;32mfeature/index[m[33m)[m feat(index): add trending movies and load more button
+[35m|[m[35m/[m  
+* [33mcbe898c[m style: update CSS theme and OMDb api helper
+* [33me276142[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m feat(setup): initial project structure and html/css/js folders
