@@ -1,14 +1,19 @@
-# Cinéma du village
-Site web de films avec l'API OMDb (HTML, CSS, JavaScript).
-Dépôt GitHub : https://github.com/yarahamichebelaid00/JavaScript-cinema
-## Pages
+Mon Projet Cinéma du Village
 
-- html/index.html : films tendances
-- html/search.html : recherche de films
-- html/movie.html : détails d'un film
 
-## Lancer le site
-Ouvrir html/index.html avec Live Server dans VS Code.
+Lien du Dépôt GitHub:
+ https://github.com/yarahamichebelaid00/JavaScript-cinema
 
-## Auteur
-Yara Hamiche Belaid
+
+
+Structure des Pages
+
+
+index.html : Page d'accueil (films tendances)
+
+search.html: Page de recherche (recherche en temps réel).
+
+movie.html: Page de détails (synopsis complet)
+
+
+Yara Hamiche Belaid - Pojet Cinema
